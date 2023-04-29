@@ -1,0 +1,7 @@
+#Successful Tests
+#Sat Apr 29 22:25:53 EEST 2023
+PreprocessTests=1670763738204
+RegexParseTests=1670763738233
+DfaTests=1670763738330
+PrenexTests=1670763738204
+NfaTests=1670763738268
