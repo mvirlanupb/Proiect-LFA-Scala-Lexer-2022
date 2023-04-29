@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="MSI" name="NfaTests" tests="16" errors="0" failures="0" skipped="0" time="0.2" timestamp="2023-04-29T22:06:02">
+          <properties>
+      <property name="java.specification.version" value="17"/><property name="sun.cpu.isalist" value="amd64"/><property name="sun.jnu.encoding" value="Cp1252"/><property name="sun.arch.data.model" value="64"/><property name="java.vendor.url" value="https://java.oracle.com/"/><property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/><property name="sun.java.command" value="xsbt.boot.Boot test"/><property name="jdk.debug" value="release"/><property name="sun.stderr.encoding" value="cp437"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="java.version.date" value="2021-09-14"/><property name="java.home" value="C:\Program Files\Java\jdk-17"/><property name="file.separator" value="\"/><property name="java.vm.compressedOopsMode" value="32-bit"/><property name="line.separator" value="
+"/><property name="sun.stdout.encoding" value="cp437"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="user.script" value=""/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="java.runtime.version" value="17+35-LTS-2724"/><property name="user.name" value="gogonatu"/><property name="log4j.ignoreTCL" value="true"/><property name="file.encoding" value="UTF-8"/><property name="jnidispatch.path" value="C:\Users\mihne\AppData\Local\Temp\jna-1904186180\jna17883145471493288713.dll"/><property name="jna.loaded" value="true"/><property name="java.io.tmpdir" value="C:\Users\mihne\AppData\Local\Temp\"/><property name="java.version" value="17"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="sun.os.patch.level" value=""/><property name="native.encoding" value="Cp1252"/><property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;F:\WINDOWS.X64_193000_db_home\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\MATLAB\R2021b\bin;C:\Program Files\CMake\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\mihne\AppData\Local\Microsoft\WindowsApps;C:\Users\mihne\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Users\mihne\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\ghcup\bin;C:\Users\mihne\AppData\Local\Coursier\data\bin;."/><property name="java.vendor" value="Oracle Corporation"/><property name="scala.ext.dirs" value="C:\Users\mihne\.sbt\1.0\java9-rt-ext-oracle_corporation_17"/><property name="sun.io.unicode.encoding" value="UnicodeLittle"/><property name="java.class.path" value="C:\Users\mihne\AppData\Local\Coursier\cache\arc\https\github.com\sbt\sbt\releases\download\v1.8.0\sbt-1.8.0.zip\sbt\bin\sbt-launch.jar"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="user.variant" value=""/><property name="jline.shutdownhook" value="false"/><property name="user.timezone" value="Europe/Bucharest"/><property name="java.vm.specification.version" value="17"/><property name="os.name" value="Windows 10"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="user.country" value="US"/><property name="sun.cpu.endian" value="little"/><property name="user.home" value="C:\Users\mihne"/><property name="user.language" value="en"/><property name="swoval.tmpdir" value="C:\Users\mihne\.sbt\1.0"/><property name="jline.esc.timeout" value="0"/><property name="path.separator" value=";"/><property name="os.version" value="10.0"/><property name="jna.nosys" value="true"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/><property name="user.dir" value="D:\schelet_scala_LFA\skel-scala"/><property name="os.arch" value="amd64"/><property name="java.vm.info" value="mixed mode, sharing"/><property name="java.vm.version" value="17+35-LTS-2724"/><property name="java.class.version" value="61.0"/>
+    </properties>
+          <testcase classname="NfaTests" name="Nfa from Eps" time="0.094">
+                      
+                    </testcase><testcase classname="NfaTests" name="Nfa from Void" time="0.002">
+                      
+                    </testcase><testcase classname="NfaTests" name="Nfa from char" time="0.002">
+                      
+                    </testcase><testcase classname="NfaTests" name="Nfa from complex expression 1" time="0.007">
+                      
+                    </testcase><testcase classname="NfaTests" name="Nfa from complex expression 1 with bad input" time="0.003">
+                      
+                    </testcase><testcase classname="NfaTests" name="Nfa from complex expression 2" time="0.003">
+                      
+                    </testcase><testcase classname="NfaTests" name="Nfa from complex expression 2 with bad input" time="0.004">
+                      
+                    </testcase><testcase classname="NfaTests" name="Nfa from star expression 1" time="0.006">
+                      
+                    </testcase><testcase classname="NfaTests" name="Nfa from star expression with bad string" time="0.002">
+                      
+                    </testcase><testcase classname="NfaTests" name="Nfa from complex expression 3" time="0.003">
+                      
+                    </testcase><testcase classname="NfaTests" name="Nfa from complex expression 4" time="0.003">
+                      
+                    </testcase><testcase classname="NfaTests" name="Nfa from complex expression 5 and bad input" time="0.002">
+                      
+                    </testcase><testcase classname="NfaTests" name="Nfa from complex expression 5" time="0.004">
+                      
+                    </testcase><testcase classname="NfaTests" name="Nfa from complex expression 6" time="0.007">
+                      
+                    </testcase><testcase classname="NfaTests" name="Nfa from complex expression 7" time="0.002">
+                      
+                    </testcase><testcase classname="NfaTests" name="Nfa map" time="0.056">
+                      
+                    </testcase>
+          <system-out><![CDATA[]]></system-out>
+          <system-err><![CDATA[]]></system-err>
+        </testsuite>
